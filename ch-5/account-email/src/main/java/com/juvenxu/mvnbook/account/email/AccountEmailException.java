@@ -8,6 +8,7 @@ public class AccountEmailException
     public AccountEmailException( String message )
     {
         super( message );
+
     }
 
     public AccountEmailException( String message, Throwable throwable )
