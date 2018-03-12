@@ -11,6 +11,10 @@ public class RandomGeneratorTest
 {
     @Test
     public void testGetRandomString()
+
+
+
+
         throws Exception
     {
         Set<String> randoms = new HashSet<String>( 100 );
