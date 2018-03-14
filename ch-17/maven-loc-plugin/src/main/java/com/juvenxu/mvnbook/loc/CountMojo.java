@@ -12,6 +12,11 @@ import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 
 /**
+
+
+
+
+
  * Goal which counts lines of code of a project
  * 
  * @goal count
