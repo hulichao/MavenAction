@@ -8,6 +8,7 @@ public class AccountPersistException
 	public AccountPersistException( String message )
     {
         super( message );
+
     }
 
     public AccountPersistException( String message, Throwable throwable )
