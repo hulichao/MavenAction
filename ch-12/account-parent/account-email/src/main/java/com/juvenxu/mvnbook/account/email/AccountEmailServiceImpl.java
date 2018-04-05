@@ -11,6 +11,10 @@ public class AccountEmailServiceImpl
 {
     private JavaMailSender javaMailSender;
 
+
+
+
+
     private String systemEmail;
 
     public void sendMail( String to, String subject, String htmlText )
