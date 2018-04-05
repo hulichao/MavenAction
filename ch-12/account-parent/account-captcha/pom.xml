@@ -11,6 +11,10 @@
 	<name>Account Captcha</name>
 
 	<properties>
+
+
+
+
 		<kaptcha.version>2.3</kaptcha.version>
 	</properties>
 
